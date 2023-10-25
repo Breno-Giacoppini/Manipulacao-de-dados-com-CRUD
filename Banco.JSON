@@ -1,0 +1,1308 @@
+[
+    {
+        "Registro 1": {
+        "Veiculo": "Volvo VNL 860",
+        "Nome do Cliente": "Ana Silva",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de suspensão",
+        "eixos": "6",
+        "peso": "12.500 kg",
+        "altura": "3.90 metros",
+        "comprimento": "6.90 metros"
+        }
+    },
+    {
+        "Registro 2": {
+            "Veiculo": "Kenworth W900",
+            "Nome do Cliente": "Maria Souza",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema na transmissão",
+            "eixos": "4",
+            "peso": "10 toneladas",
+            "altura": "3 metros",
+            "comprimento": "7 metros"
+        }
+    },
+    {
+        "Registro 3": {
+            "Veiculo": "Peterbilt 379",
+            "Nome do Cliente": "Antônio Silva",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema elétrico",
+            "eixos": "4",
+            "peso": "12 toneladas",
+            "altura": "3.2 metros",
+            "comprimento": "7.5 metros"
+        }
+    },
+    {
+        "Registro 4": {
+            "Veiculo": "Mack Anthem",
+            "Nome do Cliente": "Ana Santos",
+            "Ano do Carro": "2021",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de freio",
+            "eixos": "4",
+            "peso": "11 toneladas",
+            "altura": "3.1 metros",
+            "comprimento": "7.3 metros"
+        }
+    },
+    {
+        "Registro 5": {
+            "Veiculo": "International LoneStar",
+            "Nome do Cliente": "Luiz Pereira",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de direção",
+            "eixos": "2",
+            "peso": "8 toneladas",
+            "altura": "2.8 metros",
+            "comprimento": "6.5 metros"
+        }
+    },
+    {
+        "Registro 6": {
+            "Veiculo": "Freightliner Cascadia",
+            "Nome do Cliente": "Eduardo Costa",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de ar condicionado",
+            "eixos": "2",
+            "peso": "9 toneladas",
+            "altura": "2.7 metros",
+            "comprimento": "6.2 metros"
+        }
+    },
+    {
+        "Registro 7": {
+            "Veiculo": "Paccar MX-13",
+            "Nome do Cliente": "Rosa Ferreira",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de suspensão",
+            "eixos": "2",
+            "peso": "8.5 toneladas",
+            "altura": "2.6 metros",
+            "comprimento": "6 metros"
+        }
+    },
+    {
+        "Registro 8": {
+            "Veiculo": "MAN TGX",
+            "Nome do Cliente": "Paulo Lima",
+            "Ano do Carro": "2021",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de transmissão",
+            "eixos": "2",
+            "peso": "8.2 toneladas",
+            "altura": "2.5 metros",
+            "comprimento": "5.8 metros"
+        }
+    },
+    {
+        "Registro 9": {
+            "Veiculo": "DAF XF",
+            "Nome do Cliente": "Cristina Alves",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escape",
+            "eixos": "2",
+            "peso": "7.8 toneladas",
+            "altura": "2.4 metros",
+            "comprimento": "5.5 metros"
+        }
+    },
+    {
+        "Registro 10": {
+            "Veiculo": "Komatsu WA900-8",
+            "Nome do Cliente": "José Oliveira",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema hidráulico",
+            "eixos": "2",
+            "peso": "7.5 toneladas",
+            "altura": "2.3 metros",
+            "comprimento": "5 metros"
+        }
+    },
+    {
+        "Registro 11": {
+            "Veiculo": "Liebherr T 282B",
+            "Nome do Cliente": "Marcelo Souza",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de içamento",
+            "eixos": "2",
+            "peso": "12.5 toneladas",
+            "altura": "3 metros",
+            "comprimento": "6.5 metros"
+        }
+    },
+    {
+        "Registro 12": {
+            "Veiculo": "Hitachi EX8000",
+            "Nome do Cliente": "Fernanda Oliveira",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema hidráulico",
+            "eixos": "2",
+            "peso": "11.5 toneladas",
+            "altura": "2.9 metros",
+            "comprimento": "6 metros"
+        }
+    },
+    {
+        "Registro 13": {
+            "Veiculo": "Terex MT 6300AC",
+            "Nome do Cliente": "Roberto Almeida",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de transporte",
+            "eixos": "4",
+            "peso": "20 toneladas",
+            "altura": "4 metros",
+            "comprimento": "8 metros"
+        }
+    },
+    {
+        "Registro 14": {
+            "Veiculo": "JCB 4CX",
+            "Nome do Cliente": "Amanda Silva",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "8.5 toneladas",
+            "altura": "2.5 metros",
+            "comprimento": "5 metros"
+        }
+    },
+    {
+        "Registro 15": {
+            "Veiculo": "Case IH Steiger",
+            "Nome do Cliente": "Gustavo Costa",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de trator",
+            "eixos": "2",
+            "peso": "6 toneladas",
+            "altura": "2 metros",
+            "comprimento": "4 metros"
+        }
+    },
+    {
+        "Registro 16": {
+            "Veiculo": "John Deere 9RX",
+            "Nome do Cliente": "Luciana Ferreira",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de trator",
+            "eixos": "2",
+            "peso": "6.2 toneladas",
+            "altura": "2.1 metros",
+            "comprimento": "4.2 metros"
+        }
+    },
+    {
+        "Registro 17": {
+            "Veiculo": "New Holland T9",
+            "Nome do Cliente": "Ricardo Lima",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de trator",
+            "eixos": "2",
+            "peso": "6.5 toneladas",
+            "altura": "2.2 metros",
+            "comprimento": "4.5 metros"
+        }
+    },
+    {
+        "Registro 18": {
+            "Veiculo": "Caterpillar D6",
+            "Nome do Cliente": "Mariana Santos",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de trator",
+            "eixos": "2",
+            "peso": "6.8 toneladas",
+            "altura": "2.3 metros",
+            "comprimento": "4.8 metros"
+        }
+    },
+    {
+        "Registro 19": {
+            "Veiculo": "Komatsu D65",
+            "Nome do Cliente": "Fernando Oliveira",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de trator",
+            "eixos": "2",
+            "peso": "7 toneladas",
+            "altura": "2.4 metros",
+            "comprimento": "5 metros"
+        }
+    },
+    {
+        "Registro 20": {
+            "Veiculo": "Volvo EC480D",
+            "Nome do Cliente": "Carla Almeida",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "8 toneladas",
+            "altura": "2.5 metros",
+            "comprimento": "5.5 metros"
+        }
+    },
+    {
+        "Registro 21": {
+            "Veiculo": "Liebherr R 9800",
+            "Nome do Cliente": "Roberto Almeida",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "8.5 toneladas",
+            "altura": "2.6 metros",
+            "comprimento": "6 metros"
+        }
+    },
+    {
+        "Registro 22": {
+            "Veiculo": "Hitachi ZX870",
+            "Nome do Cliente": "Amanda Silva",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "9 toneladas",
+            "altura": "2.7 metros",
+            "comprimento": "6.5 metros"
+        }
+    },
+    {
+        "Registro 23": {
+            "Veiculo": "Komatsu PC2000-11",
+            "Nome do Cliente": "Gustavo Costa",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "9.5 toneladas",
+            "altura": "2.8 metros",
+            "comprimento": "7 metros"
+        }
+    },
+    {
+        "Registro 24": {
+            "Veiculo": "Terex RH400",
+            "Nome do Cliente": "Luciana Ferreira",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "10 toneladas",
+            "altura": "2.9 metros",
+            "comprimento": "7.5 metros"
+        }
+    },
+    {
+        "Registro 25": {
+            "Veiculo": "Caterpillar 336",
+            "Nome do Cliente": "Ricardo Lima",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "10.5 toneladas",
+            "altura": "3 metros",
+            "comprimento": "8 metros"
+        }
+    },
+    {
+        "Registro 26": {
+            "Veiculo": "Komatsu PC600",
+            "Nome do Cliente": "Mariana Santos",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "11 toneladas",
+            "altura": "3.1 metros",
+            "comprimento": "8.5 metros"
+        }
+    },
+    {
+        "Registro 27": {
+            "Veiculo": "Volvo L350H",
+            "Nome do Cliente": "Fernando Oliveira",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de escavadeira",
+            "eixos": "2",
+            "peso": "11.5 toneladas",
+            "altura": "3.2 metros",
+            "comprimento": "9 metros"
+        }
+    },
+    {
+        "Registro 28": {
+            "Veiculo": "Liebherr LTM 11200-9.1",
+            "Nome do Cliente": "Carla Almeida",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de guindaste",
+            "eixos": "4",
+            "peso": "50 toneladas",
+            "altura": "4 metros",
+            "comprimento": "12 metros"
+        }
+    },
+    {
+        "Registro 29": {
+            "Veiculo": "Grove GMK6300L",
+            "Nome do Cliente": "Roberto Almeida",
+            "Ano do Carro": "2021",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de guindaste",
+            "eixos": "4",
+            "peso": "55 toneladas",
+            "altura": "4.5 metros",
+            "comprimento": "13 metros"
+        }
+    },
+    {
+        "Registro 30": {
+            "Veiculo": "Tadano ATF 400G-6",
+            "Nome do Cliente": "Amanda Silva",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de guindaste",
+            "eixos": "4",
+            "peso": "60 toneladas",
+            "altura": "5 metros",
+            "comprimento": "14 metros"
+        }
+    },
+    {
+        "Registro 31": {
+            "Veiculo": "Manitowoc 31000",
+            "Nome do Cliente": "Gustavo Costa",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de guindaste",
+            "eixos": "4",
+            "peso": "65 toneladas",
+            "altura": "5.5 metros",
+            "comprimento": "15 metros"
+        }
+    },
+    {
+        "Registro 32": {
+            "Veiculo": "Liebherr LR 1750",
+            "Nome do Cliente": "Luciana Ferreira",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de guindaste",
+            "eixos": "4",
+            "peso": "70 toneladas",
+            "altura": "6 metros",
+            "comprimento": "16 metros"
+        }
+    },
+    {
+        "Registro 33": {
+            "Veiculo": "JLG 1850SJ",
+            "Nome do Cliente": "Ricardo Lima",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de guindaste",
+            "eixos": "4",
+            "peso": "75 toneladas",
+            "altura": "6.5 metros",
+            "comprimento": "17 metros"
+        }
+    },
+    {
+        "Registro 34": {
+            "Veiculo": "Hyster H360HD2",
+            "Nome do Cliente": "Mariana Santos",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de empilhadeira",
+            "eixos": "2",
+            "peso": "5 toneladas",
+            "altura": "3 metros",
+            "comprimento": "2.5 metros"
+        }
+    },
+    {
+        "Registro 35": {
+            "Veiculo": "Kalmar DRF450-60S5",
+            "Nome do Cliente": "Fernando Oliveira",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de empilhadeira",
+            "eixos": "2",
+            "peso": "6 toneladas",
+            "altura": "3.1 metros",
+            "comprimento": "3 metros"
+        }
+    },
+    {
+        "Registro 36": {
+            "Veiculo": "Fantuzzi FDC450",
+            "Nome do Cliente": "Carla Almeida",
+            "Ano do Carro": "2020",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de empilhadeira",
+            "eixos": "2",
+            "peso": "6.5 toneladas",
+            "altura": "3.2 metros",
+            "comprimento": "3.5 metros"
+        }
+    },
+    {
+        "Registro 37": {
+            "Veiculo": "Taylor X-650L",
+            "Nome do Cliente": "Roberto Almeida",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de empilhadeira",
+            "eixos": "2",
+            "peso": "7 toneladas",
+            "altura": "3.3 metros",
+            "comprimento": "4 metros"
+        }
+    },
+    {
+        "Registro 38": {
+            "Veiculo": "Crown SC 6000",
+            "Nome do Cliente": "Amanda Silva",
+            "Ano do Carro": "2018",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de empilhadeira",
+            "eixos": "2",
+            "peso": "7.5 toneladas",
+            "altura": "3.4 metros",
+            "comprimento": "4.5 metros"
+        }
+    },
+    {
+        "Registro 39": {
+            "Veiculo": "Raymond 8400",
+            "Nome do Cliente": "Gustavo Costa",
+            "Ano do Carro": "2019",
+            "Cliente": "Sim",
+            "Tipo de Problema": "Problema no sistema de empilhadeira",
+            "eixos": "2",
+            "peso": "8 toneladas",
+	            "altura": "3.5 metros",
+        "comprimento": "5 metros"
+    }
+},
+{
+    "Registro 40": {
+        "Veiculo": "Kalmar DCG180-12",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "8.5 toneladas",
+        "altura": "3.6 metros",
+        "comprimento": "5.5 metros"
+    }
+},
+{
+    "Registro 41": {
+        "Veiculo": "Hyster H620B",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "9 toneladas",
+        "altura": "3.7 metros",
+        "comprimento": "6 metros"
+    }
+},
+{
+    "Registro 42": {
+        "Veiculo": "Jungheinrich EFG 540k",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "9.5 toneladas",
+        "altura": "3.8 metros",
+        "comprimento": "6.5 metros"
+    }
+},
+{
+    "Registro 43": {
+        "Veiculo": "Big Joe PDS-25",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "10 toneladas",
+        "altura": "3.9 metros",
+        "comprimento": "7 metros"
+    }
+},
+{
+    "Registro 44": {
+        "Veiculo": "Linde H80D",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "10.5 toneladas",
+        "altura": "4 metros",
+        "comprimento": "7.5 metros"
+    }
+},
+{
+    "Registro 45": {
+        "Veiculo": "Combilift C4000",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "11 toneladas",
+        "altura": "4.1 metros",
+        "comprimento": "8 metros"
+    }
+},
+{
+    "Registro 46": {
+        "Veiculo": "Yale GDP360EC",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "11.5 toneladas",
+        "altura": "4.2 metros",
+        "comprimento": "8.5 metros"
+    }
+},
+{
+    "Registro 47": {
+        "Veiculo": "Doosan D160S-5",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de empilhadeira",
+        "eixos": "2",
+        "peso": "12 toneladas",
+        "altura": "4.3 metros",
+        "comprimento": "9 metros"
+    }
+},
+{
+    "Registro 48": {
+        "Veiculo": "Genie S-125",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de elevador",
+        "eixos": "2",
+        "peso": "4 toneladas",
+        "altura": "12 metros",
+        "comprimento": "2 metros"
+    }
+},
+{
+    "Registro 49": {
+        "Veiculo": "JLG 800AJ",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de elevador",
+        "eixos": "2",
+        "peso": "4.5 toneladas",
+        "altura": "14 metros",
+        "comprimento": "2.5 metros"
+    }
+},
+{
+    "Registro 50": {
+        "Veiculo": "Skyjack SJ66T",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de elevador",
+        "eixos": "2",
+        "peso": "5 toneladas",
+        "altura": "15 metros",
+        "comprimento": "3 metros"
+    }
+},
+{
+    "Registro 51": {
+        "Veiculo": "Snorkel TB60",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de elevador",
+        "eixos": "2",
+        "peso": "5.5 toneladas",
+        "altura": "16 metros",
+        "comprimento": "3.5 metros"
+    }
+},
+{
+    "Registro 52": {
+        "Veiculo": "Terex T780",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de elevador",
+        "eixos": "2",
+        "peso": "6 toneladas",
+        "altura": "17 metros",
+        "comprimento": "4 metros"
+    }
+},
+{
+    "Registro 53": {
+        "Veiculo": "Liebherr LTM 1220-5.2",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de guindaste",
+        "eixos": "4",
+        "peso": "55 toneladas",
+        "altura": "5 metros",
+        "comprimento": "12 metros"
+    }
+},
+{
+    "Registro 54": {
+        "Veiculo": "Demag AC 250-5",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de guindaste",
+        "eixos": "4",
+        "peso": "60 toneladas",
+        "altura": "5.5 metros",
+        "comprimento": "13 metros"
+    }
+},
+{
+    "Registro 55": {
+        "Veiculo": "Tadano GR-1000XL",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de guindaste",
+        "eixos": "4",
+        "peso": "65 toneladas",
+        "altura": "6 metros",
+        "comprimento": "14 metros"
+    }
+},
+{
+    "Registro 56": {
+        "Veiculo": "Manitowoc MLC300",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de guindaste",
+        "eixos": "4",
+        "peso": "70 toneladas",
+        "altura": "6.5 metros",
+        "comprimento": "15 metros"
+    }
+},
+{
+    "Registro 57": {
+        "Veiculo": "Liebherr LR 1300",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de guindaste",
+        "eixos": "4",
+        "peso": "75 toneladas",
+        "altura": "7 metros",
+        "comprimento": "16 metros"
+    }
+},
+{
+    "Registro 58": {
+        "Veiculo": "Sennebogen 870M",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de guindaste",
+        "eixos": "4",
+        "peso": "80 toneladas",
+        "altura": "7.5 metros",
+        "comprimento": "17 metros"
+    }
+},
+{
+    "Registro 59": {
+        "Veiculo": "Komatsu WA600-8",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "18 toneladas",
+        "altura": "3 metros",
+        "comprimento": "7 metros"
+    }
+},
+{
+    "Registro 60": {
+        "Veiculo": "CAT 745",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "25 toneladas",
+        "altura": "4 metros",
+        "comprimento": "8 metros"
+    }
+},
+{
+    "Registro 61": {
+        "Veiculo": "Volvo A60H",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "28 toneladas",
+        "altura": "4.5 metros",
+        "comprimento": "9 metros"
+    }
+},
+{
+    "Registro 62": {
+        "Veiculo": "Bell B60E",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "30 toneladas",
+        "altura": "5 metros",
+        "comprimento": "10 metros"
+    }
+},
+{
+    "Registro 63": {
+        "Veiculo": "Terex TA400",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "32 toneladas",
+        "altura": "5.5 metros",
+        "comprimento": "11 metros"
+    }
+},
+{
+    "Registro 64": {
+        "Veiculo": "Hitachi EH5000AC-3",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "35 toneladas",
+        "altura": "6 metros",
+        "comprimento": "12 metros"
+    }
+},
+{
+    "Registro 65": {
+        "Veiculo": "Komatsu 980E-4",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "40 toneladas",
+        "altura": "6.5 metros",
+        "comprimento": "13 metros"
+    }
+},
+{
+    "Registro 66": {
+        "Veiculo": "Liebherr T 284",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "45 toneladas",
+        "altura": "7 metros",
+        "comprimento": "14 metros"
+    }
+},
+{
+    "Registro 67": {
+        "Veiculo": "Caterpillar 988K XE",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "20 toneladas",
+        "altura": "3.5 metros",
+        "comprimento": "8 metros"
+    }
+},
+{
+    "Registro 68": {
+        "Veiculo": "JCB 437",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "22 toneladas",
+        "altura": "4 metros",
+        "comprimento": "9 metros"
+    }
+},
+{
+    "Registro 69": {
+        "Veiculo": "Case 1121F",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "24 toneladas",
+        "altura": "4.5 metros",
+        "comprimento": "10 metros"
+    }
+},
+{
+    "Registro 70": {
+        "Veiculo": "Volvo L260H",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "26 toneladas",
+        "altura": "5 metros",
+        "comprimento": "11 metros"
+    }
+},
+{
+    "Registro 71": {
+        "Veiculo": "Komatsu WA600-8",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "28 toneladas",
+        "altura": "5.5 metros",
+        "comprimento": "12 metros"
+    }
+},
+{
+    "Registro 72": {
+        "Veiculo": "Liebherr R 960 SME",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "30 toneladas",
+        "altura": "6 metros",
+        "comprimento": "13 metros"
+    }
+},
+{
+    "Registro 73": {
+        "Veiculo": "CAT 740B",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "32 toneladas",
+        "altura": "6.5 metros",
+        "comprimento": "14 metros"
+    }
+},
+{
+    "Registro 74": {
+        "Veiculo": "Bell B50D",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "35 toneladas",
+        "altura": "7 metros",
+        "comprimento": "15 metros"
+    }
+},
+{
+    "Registro 75": {
+        "Veiculo": "Terex TA300",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "40 toneladas",
+        "altura": "7.5 metros",
+        "comprimento": "16 metros"
+    }
+},
+{
+    "Registro 76": {
+        "Veiculo": "Doosan DA40",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de caminhão basculante",
+        "eixos": "4",
+        "peso": "45 toneladas",
+        "altura": "8 metros",
+        "comprimento": "17 metros"
+    }
+},
+{
+    "Registro 77": {
+        "Veiculo": "John Deere 410E",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "10 toneladas",
+        "altura": "3 metros",
+        "comprimento": "7 metros"
+    }
+},
+{
+    "Registro 78": {
+        "Veiculo": "Komatsu HD465-7",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "12 toneladas",
+        "altura": "3.5 metros",
+        "comprimento": "8 metros"
+    }
+},
+{
+    "Registro 79": {
+        "Veiculo": "Liebherr T 236",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "14 toneladas",
+        "altura": "4 metros",
+        "comprimento": "9 metros"
+    }
+},
+{
+    "Registro 80": {
+        "Veiculo": "Caterpillar 972M",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "16 toneladas",
+        "altura": "4.5 metros",
+        "comprimento": "10 metros"
+    }
+},
+{
+    "Registro 81": {
+        "Veiculo": "Volvo L90H",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "18 toneladas",
+        "altura": "5 metros",
+        "comprimento": "11 metros"
+    }
+},
+{
+    "Registro 82": {
+        "Veiculo": "Case 721G",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "20 toneladas",
+        "altura": "5.5 metros",
+        "comprimento": "12 metros"
+    }
+},
+{
+    "Registro 83": {
+        "Veiculo": "JCB 427",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "22 toneladas",
+        "altura": "6 metros",
+        "comprimento": "13 metros"
+    }
+},
+{
+    "Registro 84": {
+        "Veiculo": "Komatsu WA320-8",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de escavadeira",
+        "eixos": "2",
+        "peso": "24 toneladas",
+        "altura": "6.5 metros",
+        "comprimento": "14 metros"
+    }
+},
+{
+    "Registro 85": {
+        "Veiculo": "Hyundai HL965",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "18 toneladas",
+        "altura": "3 metros",
+        "comprimento": "7 metros"
+    }
+},
+{
+    "Registro 86": {
+        "Veiculo": "CAT 950M",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "20 toneladas",
+        "altura": "3.5 metros",
+        "comprimento": "8 metros"
+    }
+},
+{
+    "Registro 87": {
+        "Veiculo": "Volvo L60H",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "22 toneladas",
+        "altura": "4 metros",
+        "comprimento": "9 metros"
+    }
+},
+{
+    "Registro 88": {
+        "Veiculo": "Liebherr L 538",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "24 toneladas",
+        "altura": "4.5 metros",
+        "comprimento": "10 metros"
+    }
+},
+{
+    "Registro 89": {
+        "Veiculo": "Terex TLB840",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de carregadeira",
+        "eixos": "2",
+        "peso": "26 toneladas",
+        "altura": "5 metros",
+        "comprimento": "11 metros"
+    }
+},
+{
+    "Registro 90": {
+        "Veiculo": "JLG 400S",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "4 toneladas",
+        "altura": "12 metros",
+        "comprimento": "2 metros"
+    }
+},
+{
+    "Registro 91": {
+        "Veiculo": "Genie GS-1930",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "4.5 toneladas",
+        "altura": "14 metros",
+        "comprimento": "2.5 metros"
+    }
+},
+{
+    "Registro 92": {
+        "Veiculo": "Skyjack SJIII 3219",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "5 toneladas",
+        "altura": "15 metros",
+        "comprimento": "3 metros"
+    }
+},
+{
+    "Registro 93": {
+        "Veiculo": "Snorkel S3010P",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "5.5 toneladas",
+        "altura": "16 metros",
+        "comprimento": "3.5 metros"
+    }
+},
+{
+    "Registro 94": {
+        "Veiculo": "Terex AWP 25S",
+        "Nome do Cliente": "Amanda Silva",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "6 toneladas",
+        "altura": "17 metros",
+        "comprimento": "4 metros"
+    }
+},
+{
+    "Registro 95": {
+        "Veiculo": "Haulotte HA260PX",
+        "Nome do Cliente": "Gustavo Costa",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "6.5 toneladas",
+        "altura": "18 metros",
+        "comprimento": "4.5 metros"
+    }
+},
+{
+    "Registro 96": {
+        "Veiculo": "JLG 660SJ",
+        "Nome do Cliente": "Luciana Ferreira",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "7 toneladas",
+        "altura": "19 metros",
+        "comprimento": "5 metros"
+    }
+},
+{
+    "Registro 97": {
+        "Veiculo": "Genie Z-80/60",
+        "Nome do Cliente": "Ricardo Lima",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "7.5 toneladas",
+        "altura": "20 metros",
+        "comprimento": "5.5 metros"
+    }
+},
+{
+    "Registro 98": {
+        "Veiculo": "Skyjack SJ8831",
+        "Nome do Cliente": "Mariana Santos",
+        "Ano do Carro": "2019",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "8 toneladas",
+        "altura": "21 metros",
+        "comprimento": "6 metros"
+    }
+},
+{
+    "Registro 99": {
+        "Veiculo": "Snorkel TB42",
+        "Nome do Cliente": "Carla Almeida",
+        "Ano do Carro": "2020",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "8.5 toneladas",
+        "altura": "22 metros",
+        "comprimento": "6.5 metros"
+    }
+},
+{
+    "Registro 100": {
+        "Veiculo": "Terex AWP 40S",
+        "Nome do Cliente": "Roberto Almeida",
+        "Ano do Carro": "2018",
+        "Cliente": "Sim",
+        "Tipo de Problema": "Problema no sistema de plataforma elevatória",
+        "eixos": "2",
+        "peso": "9 toneladas",
+        "altura": "23 metros",
+        "comprimento": "7 metros"
+    }
+}
+]
+
+            
+
+
+
+    

@@ -1,0 +1,14 @@
+Programa de Gerenciamento de Registros em Python.
+Este programa em Python permite gerenciar registros de veículos, clientes e suas informações associadas em um arquivo JSON. O programa oferece as seguintes funcionalidades:
+
+Create (Criar): Essa operação permite adicionar novos registros aos dados existentes. No programa, a função criar_registro permite ao usuário criar um novo registro de veículo e cliente, fornecendo informações como o veículo, nome do cliente, ano do carro, tipo de problema, e assim por diante. Os dados inseridos pelo usuário são adicionados à lista de registros e, em seguida, gravados em um arquivo JSON, criando assim um novo registro.
+
+Read (Ler): Essa operação envolve a recuperação e exibição dos dados existentes. No programa, a função listar_registros lê os registros armazenados no arquivo JSON "Banco.json" e os exibe no formato desejado, permitindo ao usuário ver todos os registros existentes.
+
+Update (Atualizar): Essa operação permite ao usuário modificar ou atualizar informações em um registro existente. A função atualizar_registro lista os registros disponíveis e permite ao usuário escolher qual registro deseja atualizar. Em seguida, o programa permite que o usuário insira novos valores para as informações do registro selecionado, efetivamente atualizando os dados.
+
+Delete (Excluir): Essa operação permite ao usuário remover registros existentes do sistema. A função excluir_registro lista os registros disponíveis e permite ao usuário escolher qual registro deseja excluir. Uma vez escolhido, o programa remove o registro selecionado do arquivo JSON, excluindo-o da lista de registros.
+
+O programa utiliza um arquivo JSON para armazenar os registros, com funções para ler e escrever dados no arquivo. Cada registro é representado como um dicionário e é associado a um número de identificação único.
+
+O arquivo em importado da máteria de ChatBot.
